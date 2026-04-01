@@ -25,7 +25,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          # Você pode ignorar linguagens de marcação como HTML e CSS se quiser focar em programação
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines
           plugin_languages_ignored: html, css
           plugin_languages_limit: 5
 
