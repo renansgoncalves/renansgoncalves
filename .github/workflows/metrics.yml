@@ -29,6 +29,8 @@ jobs:
           plugin_languages_details: lines
           plugin_languages_ignored: html, css
           plugin_languages_limit: 5
+          commits_authoring: renansgoncalves, Renan, renansimoes200406@gmail.com, renansgoncalves@users.noreply.github.com
+          plugin_languages_analysis_timeout: 15
 
       # Músicas recentes do Spotify
       - name: Generate Recent Songs
