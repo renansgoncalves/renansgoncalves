@@ -15,7 +15,6 @@ TECH STACK
   <img align="right" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" /> 
   <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </a>
-<br clear="right" />
 
 <a href="https://skillicons.dev"> <!-- TYPESCRIPT E THREE.JS (FRONTEND) -->
   <img align="right" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
