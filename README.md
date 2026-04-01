@@ -30,14 +30,16 @@ TECH STACK
 </a>
 <br clear="right" />
 
-<a href="https://skillicons.dev"> <!-- TENSORFLOW.JS, PANDAS, POWER BI E EXCEL (DADOS) -->
-  <img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img align="right" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" />
+<a href="https://skillicons.dev"> <!-- TENSORFLOW.JS E PANDAS (DADOS) -->
   <img align="right" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow.js" />  
 </a>
-<br clear="right" />
 
+<a href="https://skillicons.dev"> <!-- POWER BI E EXCEL (DADOS) -->
+  <img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img align="right" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" />
+</a>
+<br clear="right" />
 
 <br clear="left" />
 
