@@ -15,7 +15,7 @@ PARÁGRAFO DE INTRODUÇÃO
 ========================================
 -->
 <p align="center" width="100%"> 
-Desenvolvedor Full Stack & Entusiasta de Inteligência Artificial | Transformando dados em automação e algoritmos em simulações visuais. Atualmente focado em containerização com Docker e CI/CD para automação de Deploy na nuvem.
+Hi, I'm Renan! 👋 I'm a Full Stack Developer and Data Analyst with a strong focus on Machine Learning. I'm currently learning Containerization (Docker) and Cloud Infrastructure, while pursuing my Software Engineering degree at FIAP.
 </p>
 <br/>
 
@@ -24,7 +24,7 @@ Desenvolvedor Full Stack & Entusiasta de Inteligência Artificial | Transformand
 CALENDÁRIO ISOMÉTRICO
 ========================================
 -->
-<img align="left" width="40%" src="metrics.plugin.isocalendar.svg" alt="Calendário Isométrico" />
+<img align="left" width="45%" src="metrics.plugin.isocalendar.svg" alt="Calendário Isométrico" />
 
 <!-- 
 ========================================
@@ -70,24 +70,32 @@ EXPERIÊNCIA PROFISSIONAL
 <br/>
 <div align="right">
 
-[![Stats](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=24&color=ffffff&repeat=false&center=true&width=560&lines=Experience)](https://git.io/typing-svg)
+[![Stats](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=24&color=ffffff&repeat=false&center=true&width=520&lines=Experience)](https://git.io/typing-svg)
 
 </div>
 
-<!-- 
-========================================
-LINGUAGENS MAIS USADAS
-========================================
--->
-<img align="left" width="38%" src="metrics.plugin.languages.svg" alt="Linguagens" />
-<br clear="left" />
+<img align="left" width="43%" src="metrics.plugin.languages.svg" alt="Linguagens" />
 
-<!-- 
-========================================
-MÚSICAS MAIS RECENTES
-========================================
--->
-<img align="left" width="40%" src="metrics.plugin.music.recent.svg" alt="Spotify" />
+<div align="right" width="200">
+  <img align="right" height="120px" width="120px" alt="Farina" src="./assets/farina.png" />
+  
+  **IT Intern** <br>
+  **Farina Soluções Financeiras** ­ • ­ Internship <br>
+  `Python`, `Power BI`, `Data Analysis`,<br>
+  `Web Scraping`, `JavaScript`, `Microsoft Excel`<br>
+  Jan, 2026 ­ | ­ *Present* ­ • ­ 4 months
+</div>
+
+<br clear="right" />
+
+<img align="left" width="45%" src="metrics.plugin.music.recent.svg" alt="Spotify" />
+
+<div align="right" width="200">
+  <img align="right" height="120px" width="120px" alt="Nerdmonster" src="./assets/fortec.png" />
+  
+  **IT Intern** <br>
+  **Escola e Faculdade Fortec** ­ • ­ Internship <br>
+  Aug, 2024 ­ | ­ Dec, 2024 ­ • ­ 5 months
+</div>
 
 <br clear="both" />
-<br />
