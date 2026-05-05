@@ -24,7 +24,16 @@ Hi, I'm Renan! 👋 I'm a Full Stack Developer and Data Analyst with a strong fo
 CALENDÁRIO ISOMÉTRICO
 ========================================
 -->
+<!--
 <img align="left" width="45%" src="metrics.plugin.isocalendar.svg" alt="Calendário Isométrico" />
+-->
+
+<!-- 
+========================================
+LINGUAGENS MAIS UTILIZADAS
+========================================
+-->
+<img align="left" width="43%" src="metrics.plugin.languages.svg" alt="Linguagens" />
 
 <!-- 
 ========================================
@@ -74,7 +83,11 @@ EXPERIÊNCIA PROFISSIONAL
 
 </div>
 
+<!--
 <img align="left" width="43%" src="metrics.plugin.languages.svg" alt="Linguagens" />
+-->
+
+<img align="left" width="45%" src="metrics.plugin.music.recent.svg" alt="Spotify" />
 
 <div align="right" width="200">
   <img align="right" height="120px" width="120px" alt="Farina" src="./assets/farina.png" />
@@ -83,12 +96,10 @@ EXPERIÊNCIA PROFISSIONAL
   **Farina Soluções Financeiras** ­ • ­ Internship <br>
   `Python`, `Power BI`, `Data Analysis`,<br>
   `Web Scraping`, `JavaScript`, `Microsoft Excel`<br>
-  Jan, 2026 ­ | ­ *Present* ­ • ­ 4 months
+  Jan, 2026 ­ | ­ *Present* ­ • ­ 5 months
 </div>
 
 <br clear="right" />
-
-<img align="left" width="45%" src="metrics.plugin.music.recent.svg" alt="Spotify" />
 
 <div align="right" width="200">
   <img align="right" height="120px" width="120px" alt="Nerdmonster" src="./assets/fortec.png" />
