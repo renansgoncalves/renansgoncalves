@@ -62,12 +62,12 @@ EXPERIÊNCIA PROFISSIONAL
 
 <div align="left">
   
-  **IT Intern** <br>
+  **Software Engineer Intern** <br>
   **Farina Soluções Financeiras** ­ • ­ Internship <br>
   `Python`, `Power BI`, `Data Analysis`,<br>
   `Web Scraping`, `Microsoft Excel`,<br>
   `HTML`, `CSS`, `JavaScript`, `Vite`, `Deploy`<br>
-  Jan, 2026 ­ | ­ *Present* ­ • ­ 5 months
+  Jan, 2026 ­ | ­ *Present* ­ • ­ 6 months
 </div>
 
 <div align="left">
