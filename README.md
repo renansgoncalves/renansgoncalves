@@ -67,7 +67,7 @@ EXPERIÊNCIA PROFISSIONAL
   `Python`, `Power BI`, `Data Analysis`,<br>
   `Web Scraping`, `Microsoft Excel`,<br>
   `HTML`, `CSS`, `JavaScript`, `Vite`, `Deploy`<br>
-  Jan, 2026 ­ | ­ *Present* ­ • ­ 6 months
+  Jan, 2026 ­ | ­ Jul, 2026 ­ • ­ 7 months
 </div>
 
 <div align="left">
