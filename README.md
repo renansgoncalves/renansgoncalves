@@ -67,7 +67,7 @@ EXPERIÊNCIA PROFISSIONAL
   `Python`, `Power BI`, `Data Analysis`,<br>
   `AWS`, `Salesforce`, `SFTP`,<br>
   `Web Scraping`, `Microsoft Excel`,<br>
-  Jan, 2026 ­ | ­ Jul, 2026 ­ • ­ 7 months
+  Sep, 2026 ­ | ­ Present ­ • ­ 1 month
 </div>
 
 <div align="left">
