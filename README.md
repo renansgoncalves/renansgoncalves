@@ -62,17 +62,20 @@ EXPERIÊNCIA PROFISSIONAL
 
 <div align="left">
   
-  **Software Engineer Intern** <br>
-  **Farina Soluções Financeiras** ­ • ­ Internship <br>
+  **Data Science Intern** <br>
+  **Neoenergia** ­ • ­ Internship <br>
   `Python`, `Power BI`, `Data Analysis`,<br>
+  `AWS`, `Salesforce`, `SFTP`,<br>
   `Web Scraping`, `Microsoft Excel`,<br>
-  `HTML`, `CSS`, `JavaScript`, `Vite`, `Deploy`<br>
   Jan, 2026 ­ | ­ Jul, 2026 ­ • ­ 7 months
 </div>
 
 <div align="left">
   
   **IT Intern** <br>
-  **Escola e Faculdade Fortec** ­ • ­ Internship <br>
-  Aug, 2024 ­ | ­ Dec, 2024 ­ • ­ 5 months
+  **Farina Soluções Financeiras** ­ • ­ Internship <br>
+  `Python`, `Power BI`, `Data Analysis`,<br>
+  `Web Scraping`, `Microsoft Excel`,<br>
+  `HTML`, `CSS`, `JavaScript`, `Vite`, `Deploy`<br>
+  Jan, 2026 ­ | ­ Jul, 2026 ­ • ­ 7 months
 </div>
